@@ -1,0 +1,4 @@
+googletagmanager.com
+analytics.google.com
+sp.ecosia.org
+analytics.ecoslay.com
